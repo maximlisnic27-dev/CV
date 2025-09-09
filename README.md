@@ -30,3 +30,6 @@ Perioadă: 2018 — 2021
 ## Studii
 Universitatea Tehnică / Facultatea de Calculatoare — Licență în Informatică
 Liceul: Liceul Teoretic „Exemplu”
+
+## Interese
+Contribuții open-source, participare la hackathoane, gaming, drumeții, sport în aer liber.
