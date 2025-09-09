@@ -25,3 +25,8 @@ Perioadă: 2018 — 2021
  • Participare la dezvoltarea modulelor front-end folosind HTML, CSS, JavaScript.
  • Testare funcțională și rezolvare bug-uri.
  • Documentare tehnică și suport pentru echipa de produs.
+
+
+## Studii
+Universitatea Tehnică / Facultatea de Calculatoare — Licență în Informatică
+Liceul: Liceul Teoretic „Exemplu”
