@@ -18,3 +18,10 @@ Perioadă: 2021 — prezent
   Implementare API RESTful și integrare cu front-end.
   Colaborare cu echipe de design și QA pentru livrarea produselor de calitate.  
   Refactorizare continuă și aplicare a bunelor practici de programare.  
+
+
+## Dezvoltator Web (Junior) — Companie Demo
+Perioadă: 2018 — 2021
+ • Participare la dezvoltarea modulelor front-end folosind HTML, CSS, JavaScript.
+ • Testare funcțională și rezolvare bug-uri.
+ • Documentare tehnică și suport pentru echipa de produs.
